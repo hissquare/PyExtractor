@@ -28,7 +28,8 @@
   PyExtractor was made by
 
 Love ❌ code ✅
-
+This repo is not mine. In no way is this repo modified or updated.
+  Rest In Peace Rdimo
 </h2>
 
 ---
