@@ -4,7 +4,7 @@
 
 <p align="center"> 
   <kbd>
-<img src="https://raw.githubusercontent.com/Rdimo/images/master/PyExtractor/snake.png"></img>
+<img src="https://raw.githubusercontent.com/hissquare/images/main/snake.png"></img>
   </kbd>
 </p>
 
@@ -19,17 +19,17 @@
 <h4 align="center">
   <a href="https://cheataway.com">🌌・Discord</a>
   ⋮
-  <a href="https://github.com/Rdimo/PyExtractor#-%E3%80%A2-getting-started-with-pyextractor">🐍・Getting started</a>
+  <a href="https://github.com/hissquare/PyExtractor#-%E3%80%A2-getting-started-with-pyextractor">🐍・Getting started</a>
   ⋮
-  <a href="https://github.com/Rdimo/PyExtractor#-%E3%80%A2-changelog">📜・ChangeLog</a>
+  <a href="https://github.com/hissquare/PyExtractor#-%E3%80%A2-changelog">📜・ChangeLog</a>
 </h4>
 
 <h2 align="center">
   PyExtractor was made by
 
 Love ❌ code ✅
-This repo is not mine. In no way is this repo modified or updated.
-  Rest In Peace Rdimo
+This repo is not mine. This repo has some slight modifications from the real one.
+  Rest In Peace Rdimo.
 </h2>
 
 ---
@@ -46,7 +46,7 @@ This repo is not mine. In no way is this repo modified or updated.
 
 ---
 
-<img src="https://raw.githubusercontent.com/Rdimo/images/master/PyExtractor/preview.png" height="75%" width="75%"/>
+<img src="https://raw.githubusercontent.com/hissquare/images/main/image_2022-08-19_100348738.png" height="75%" width="75%"/>
 
 ## 🐍 〢 Getting started with PyExtractor!
 
@@ -104,6 +104,10 @@ Make sure to open [config.json](https://github.com/Rdimo/PyExtractor/blob/master
 ## 💭 〢 ChangeLog
 
 ```diff
+v0.0.5 ⋮ 2022-8-19
++ Revived PyExtractor
++ Fixing images
+
 v0.0.4 ⋮ 2022-06-30
 + Loads of bug fixes
 + Cleaner code
