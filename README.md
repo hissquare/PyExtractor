@@ -17,11 +17,13 @@
 </p>
 
 <h4 align="center">
-  <a href="https://cheataway.com">🌌・Discord</a>
+  <a href="https://discord.gg/YNbxve522h">🌌・Discord</a>
   ⋮
   <a href="https://github.com/hissquare/PyExtractor#-%E3%80%A2-getting-started-with-pyextractor">🐍・Getting started</a>
   ⋮
   <a href="https://github.com/hissquare/PyExtractor#-%E3%80%A2-changelog">📜・ChangeLog</a>
+  ⋮
+  <a href="https://cheataway.com/">🌑・Rdimo's Discord</a>
 </h4>
 
 <h2 align="center">
