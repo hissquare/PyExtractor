@@ -106,7 +106,8 @@ Make sure to open [config.json](https://github.com/Rdimo/PyExtractor/blob/master
 ```diff
 v0.0.5 ⋮ 2022-8-19
 + Revived PyExtractor
-+ Fixing images
++ Fixed images
++ Updated / created files (banner.py) (utilities/common/README.md)
 
 v0.0.4 ⋮ 2022-06-30
 + Loads of bug fixes
