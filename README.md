@@ -31,7 +31,8 @@
 
 Love ❌ code ✅
 This repo is not mine. This repo has some slight modifications from the real one.
-  Rest In Peace Rdimo.
+Rdimo's account has been flagged, not banned. Wait for it to be unflagged.
+If you wanna use hazard, use https://github.com/dekrypted/Hazard-Archive
 </h2>
 
 ---
