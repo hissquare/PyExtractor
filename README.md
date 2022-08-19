@@ -34,6 +34,9 @@
   PyExtractor was made by
 
 Love ❌ code ✅
+</h2>
+
+<h2 align="center">
 This repo is not mine. This repo has some slight modifications from the real one.
 Rdimo's account has been flagged, not banned. Wait for it to be unflagged.
 If you wanna use hazard, use https://github.com/dekrypted/Hazard-Archive
