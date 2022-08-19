@@ -4,7 +4,7 @@
 
 <p align="center"> 
   <kbd>
-<img src="https://raw.githubusercontent.com/hissquare/images/main/snake.png"></img>
+<img src="https://raw.githubusercontent.com/hissquare/images/main/image_2022-08-19_121139253.png"></img>
   </kbd>
 </p>
 
@@ -49,7 +49,7 @@ If you wanna use hazard, use https://github.com/dekrypted/Hazard-Archive
 
 ---
 
-<img src="https://raw.githubusercontent.com/hissquare/images/main/image_2022-08-19_100348738.png" height="75%" width="75%"/>
+<img src="https://raw.githubusercontent.com/hissquare/images/main/image_2022-08-19_121113321.png" height="75%" width="75%"/>
 
 ## 🐍 〢 Getting started with PyExtractor!
 
