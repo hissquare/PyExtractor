@@ -62,7 +62,7 @@ git@2.17.1 or higher
 Open cmd in a chosen directory and do the following:
 
 ```sh-session
-$ git clone https://github.com/Rdimo/PyExtractor.git
+$ git clone https://github.com/hissquare/PyExtractor
 ...
 $ cd .\PyExtractor
 $ start setup.bat
@@ -84,7 +84,7 @@ $ Run setup.bat
 $ Done!
 ```
 
-Make sure to open [config.json](https://github.com/Rdimo/PyExtractor/blob/master/config.json) and change the settings to your preferences ⇣⇣⇣
+Make sure to open [config.json](https://github.com/hissquare/PyExtractor/blob/master/config.json) and change the settings to your preferences ⇣⇣⇣
 
 ```json
 {
@@ -107,6 +107,9 @@ Make sure to open [config.json](https://github.com/Rdimo/PyExtractor/blob/master
 ## 💭 〢 ChangeLog
 
 ```diff
+v0.0.6 ⋮ 2022-8-19
++ Updated README.md
+
 v0.0.5 ⋮ 2022-8-19
 + Revived PyExtractor
 + Fixed images
