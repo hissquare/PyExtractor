@@ -2,6 +2,10 @@
   PyExtractor 🐍
 </h1>
 
+<h1 align="center">
+  Star please ⭐
+</h1>
+
 <p align="center"> 
   <kbd>
 <img src="https://raw.githubusercontent.com/hissquare/images/main/image_2022-08-19_121139253.png"></img>
