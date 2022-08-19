@@ -111,7 +111,7 @@ Make sure to open [config.json](https://github.com/hissquare/PyExtractor/blob/ma
 - Remove chdir
 - More config options
 
-## 💀 〢 download links
+## 💀 〢 Download Links
 
 - [Git](https://git-scm.com)
 - [Python](https://python.org/downloads)
